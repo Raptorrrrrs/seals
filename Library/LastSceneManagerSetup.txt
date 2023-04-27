@@ -1,0 +1,9 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/SampleScene.unity
+=======
+- path: Assets/Scenes/map-beta.unity
+>>>>>>> e177480e4a35f6a4f983247b9d7ce57b572e8b3a
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
